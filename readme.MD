@@ -21,3 +21,8 @@ git push -u origin main
 -----
 
 **name Convention: use small case with Hyphons(-). No Spaces**
+
+*****
+git add . ; git commit -m "second attempt to add"; git push -u origin main
+
+*****
